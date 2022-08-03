@@ -1,6 +1,6 @@
 # car-finder-js
 
-_Car finder project. Filter and list all cars stored as db.js file.
+_Project to list, filter and search cars from the "db".
 
 ## Features
 
